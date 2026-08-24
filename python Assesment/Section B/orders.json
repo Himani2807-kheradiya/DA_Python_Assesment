@@ -1,0 +1,36 @@
+[
+    {
+        "name": "Himani",
+        "items": [
+            "pizza",
+            "burgur",
+            "coco"
+        ],
+        "amount": 450.0,
+        "status": "Delivered"
+    },
+    {
+        "name": "heena",
+        "items": [
+            "pizaa"
+        ],
+        "amount": 300.0,
+        "status": "deliverd"
+    },
+    {
+        "name": "himani",
+        "items": [
+            "pizza"
+        ],
+        "amount": 700.0,
+        "status": "dilivered"
+    },
+    {
+        "name": "aesha",
+        "items": [
+            "Cold coffe"
+        ],
+        "amount": 150.0,
+        "status": "deliverd"
+    }
+]

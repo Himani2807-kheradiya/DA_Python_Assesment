@@ -1,0 +1,61 @@
+[
+  {
+    "order_id": 1,
+    "customer_name": "himani",
+    "items": [
+      "pizza",
+      "burgur",
+      "coca"
+    ],
+    "total_amount": 600.0,
+    "status": "Delivered"
+  },
+  {
+    "order_id": 2,
+    "customer_name": "heena",
+    "items": [
+      "paubhaji",
+      "dhosa"
+    ],
+    "total_amount": 500.0,
+    "status": "Delivered"
+  },
+  {
+    "order_id": 3,
+    "customer_name": "bhakti",
+    "items": [
+      "vegitables"
+    ],
+    "total_amount": 200.0,
+    "status": "Pending"
+  },
+  {
+    "order_id": 4,
+    "customer_name": "sneha",
+    "items": [
+      "gfusdjcb"
+    ],
+    "total_amount": 68.0,
+    "status": "Pending"
+  },
+  {
+    "order_id": 5,
+    "customer_name": "aesha",
+    "items": [
+      "pizza",
+      "burgur",
+      "coco"
+    ],
+    "total_amount": 899.0,
+    "status": "Pending"
+  },
+  {
+    "order_id": 6,
+    "customer_name": "manoj",
+    "items": [
+      "cocacola"
+    ],
+    "total_amount": 200.0,
+    "status": "Pending"
+  }
+]

@@ -1,0 +1,4 @@
+****Section A : senario 4(s4)****
+
+
+To save an order in a JSON file, first import Python’s built-in `json` module. Open `orders.json` in write mode with `with open("orders.json", "w") as file:`, then use `json.dump(order_dict, file)` to write the order dictionary. When you need to read the order back, open the file in read mode and use `json.load(file)` to turn its contents into a Python dictionary. If the file does not exist yet, Python raises a `FileNotFoundError`. You can handle this on the first run with a `try-except FileNotFoundError` block that sets `orders = []`, allowing the application to start normally instead of stopping with an error.
